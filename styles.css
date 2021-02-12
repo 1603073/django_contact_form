@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  background-color: white;
+  box-shadow: 5px 10px 10px midnightblue;
+  width: 70%;
+  height: 480px;
+  margin-top: 32px;
+}
+#username {
+  width: 60%;
+  height: 45px;
+  margin-top: 5px;
+}
+#email,
+#phone {
+  width: 60%;
+  height: 45px;
+  margin-top: 14px;
+}
+#address {
+  width: 60%;
+  height: 80px;
+  margin-top: 14px;
+}
